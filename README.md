@@ -27,6 +27,7 @@ My personal list of cool tools and libraries
 - [selectize.js](https://github.com/brianreavis/selectize.js) | Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc
 - [SlickGrid](https://github.com/mleibman/SlickGrid)* | A lightning fast JavaScript grid/spreadsheet
 - [gridster.js](https://github.com/ducksboard/gridster.js) **|**  jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
+- [colorbox](https://github.com/jackmoore/colorbox) | A light-weight, customizable lightbox plugin for jQuery (photo viewer)
 
 #### User Input
 - [pickadate.js](https://github.com/amsul/pickadate.js) | mobile-friendly, responsive, and lightweight jQuery date & time input picker
