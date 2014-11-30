@@ -2,7 +2,7 @@
 My personal list of cool tools and libraries
 
 ## Javascript
-
+-----
 ### Misc
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | Create full screen pages fast and simple
 - [list.js](https://github.com/javve/list.js) | Add search, sort, filters and flexibility to tables, lists and various HTML elements
@@ -28,6 +28,6 @@ My personal list of cool tools and libraries
 - [mailcheck](https://github.com/mailcheck/mailcheck) | Reduce user-misspelled email addresses in your forms
 
 ## Markdown
-
+-----
 ### Info
 - [GFM cheatsheet](https://guides.github.com/features/mastering-markdown/) | basic syntax info for Github Flavored Markdown
