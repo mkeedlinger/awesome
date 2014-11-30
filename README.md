@@ -1,5 +1,6 @@
 # Awesome
 My personal list of cool tools and libraries
+
 **Note:** An `*` means that the tool/library/whatever seems to be the best for its purpose
 
 
@@ -7,7 +8,7 @@ My personal list of cool tools and libraries
 
 ### Misc
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) | Create full screen pages fast and simple
-- [list.js](https://github.com/javve/list.js)^^ | Add search, sort, filters and flexibility to tables, lists and various HTML elements
+- [list.js](https://github.com/javve/list.js) | Add search, sort, filters and flexibility to tables, lists and various HTML elements
 - [jquery-pjax](https://github.com/defunkt/jquery-pjax) | pushState + ajax = pjax
 
 ### Data / Files
@@ -45,10 +46,10 @@ My personal list of cool tools and libraries
 - [validator.js](https://github.com/chriso/validator.js) | String validation and sanitization
 
 ### Functional Utilities
-[bluebird](https://github.com/petkaantonov/bluebird)* | full featured promise library with unmatched performance
+- [bluebird](https://github.com/petkaantonov/bluebird)* | full featured promise library with unmatched performance
 
 ### Security
-[passport](https://github.com/jaredhanson/passport) | Simple, unobtrusive authentication for Node.js
+- [passport](https://github.com/jaredhanson/passport) | Simple, unobtrusive authentication for Node.js
 
 
 ## Markdown
