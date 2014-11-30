@@ -51,6 +51,10 @@ My personal list of cool tools and libraries
 ### Security
 - [passport](https://github.com/jaredhanson/passport) | Simple, unobtrusive authentication for Node.js
 
+### Development
+- [jshint](https://github.com/jshint/jshint) | helps to detect errors and potential problems in your JavaScript code
+- [nodemon](https://github.com/remy/nodemon) | Monitor for any changes in your node.js application and automatically restart the server
+
 
 ## Markdown
 
